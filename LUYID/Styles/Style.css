@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+p{
+    color: rgb(114, 157, 168);
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px; 
+}
+
+.header-container{
+    background-color: rgba(12, 33, 51, 0.589);
+    text-align: center;
+    position: absolute;
+    top: 300px;
+    display: block;
+    width: 100%;
+}
+
+#header-btn{
+    background-color: rgba(92, 190, 190, 0.637);
+    color: rgb(223, 244, 253);
+    text-decoration: none;
+    width: 450px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 5px;
+    padding-top: 7px;
+}
+h1{
+    color: rgb(151, 231, 229);
+    font-family: "Open Sans", sans-serif;
+    font-size: 30px; 
+}
+
+h2{
+    color: rgb(66, 92, 33);
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px; 
+}
+
+#bg-img{
+    width: 100%;
+}
+
+.cards-container{
+    margin: 15px;
+}
+
+.card-img-top{
+    height: 350px;
+}
+
+.testemonial-container{
+    height: 150px;
+    width: 100%;
+    background-color: rgba(225, 240, 139, 0.689);
+}
